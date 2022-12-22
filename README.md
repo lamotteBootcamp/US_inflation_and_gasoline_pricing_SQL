@@ -24,6 +24,7 @@ Using the Alpha Vantage API we called the WTI stock data, this data was used as 
 We first generated the two tables that we would construct in PG Admin using the free database diagram generation website. Our resulting SQL code is the following:
 
 ![Screehshot of code used for database table construction](database_screenshots/databasediagram.png)
+
 *Screehshot of code used for database table construction*
 
 After constructing the tables in PG Admin SQL, we used Jupyter Notebook code to append both tables to contain the data from both merged datasets. The code that we used to for uploading is in the file labelled: 'infl_gas_db_sql.ipynb'. 
@@ -38,16 +39,19 @@ After making the uploads we tested to make sure that our tables contained the re
 
 
 ![First Screehshot of infl_gas database table](database_screenshots/infl_gas_database1.png)
+
 *First Screehshot of infl_gas database table*
 
 
 
 ![Second Screehshot of infl_gas database table](database_screenshots/infl_gas_database2.png)
-*First Screehshot of infl_gas database table*
+
+*Second Screehshot of infl_gas database table*
 
 
 ![Screehshot of combined_wti_and_gas_database database table](database_screenshots/combined_wti_and_gas_database.png)
-*First Screehshot of infl_gas database table*
+
+*Screehshot of combined_wti_and_gas_database database table*
 
 
 
