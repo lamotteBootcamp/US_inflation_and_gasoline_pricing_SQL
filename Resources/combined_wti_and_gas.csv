@@ -1,4 +1,4 @@
-,Month,Opening Price,High Price,Low Price,Closing Price,Volume,Avg. Gas Price
+,month,opening_price,high_price,low_price,closing_price,volume,gas
 0,2005-02,18.2,20.38,18.05,19.9,7379800.0,1.969
 1,2005-03,20.0,22.25,19.55,20.76,6934200.0,2.12025
 2,2005-04,20.76,21.9,19.49,20.05,4660800.0,2.2845
