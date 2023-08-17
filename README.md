@@ -1,8 +1,8 @@
-# project2
+# US Inflation and Gasoline Pricing SQL Database 
 
 Extract information from two csv files and one api, transform and merge the three data sets and to upload them to a database (PG Admin)
 
-## Group 1 Proposal:
+## Proposal:
 
 The subject we are pursuing is the correlation between the inflation in the United States, and the price ranges of gasoline and/or crude oil over the last fifteen years, beginning in the year 2005 and stopping at 2020. We also want to investigate the prices provided by West Texas Intermediate gathered from the Alpha Vantage API for a monthly average comparison to U.S. gas prices.
 
